@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>sdmx-sax</groupId>
     <artifactId>sdmx-sdmx21-xmlbeans</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <build>
         <plugins>
@@ -90,8 +90,6 @@
             </plugin>
         </plugins>
     </build>
-
-
     <dependencies>
         <dependency>
             <groupId>org.apache.xmlbeans</groupId>
