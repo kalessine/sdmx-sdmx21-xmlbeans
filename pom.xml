@@ -115,7 +115,7 @@
     </distributionManagement>
     <scm>
         <connection>scm:git:ssh://github.com/kalessine/sdmx-sdmx21-xmlbeans.git</connection>
-        <developerConnection>scm:git:ssh://github.com:kalessine/sdmx-sdmx21-xmlbeans.git</developerConnection>
+        <developerConnection>scm:git:ssh://github.com/kalessine/sdmx-sdmx21-xmlbeans.git</developerConnection>
         <url>https://github.com/kalessine/sdmx-sdmx21-xmlbeans/tree/master</url>
         <tag>sdmx-sdmx21-xmlbeans-0.0.1</tag>
     </scm>
