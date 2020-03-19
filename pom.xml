@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>sdmx-sax</groupId>
     <artifactId>sdmx-sdmx21-xmlbeans</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <build>
         <plugins>
@@ -106,7 +106,7 @@
         <connection>scm:git:ssh://git@github.com/kalessine/sdmx-sdmx21-xmlbeans.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/kalessine/sdmx-sdmx21-xmlbeans.git</developerConnection>
         <url>http://github.com/kalessine/sdmx-sdmx21-xmlbeans/tree/master</url>
-      <tag>0.0.1</tag>
+      <tag>sdmx-sdmx21-xmlbeans-0.0.1</tag>
   </scm>
 
     <distributionManagement>
