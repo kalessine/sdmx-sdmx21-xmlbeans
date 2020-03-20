@@ -101,14 +101,25 @@
             </plugin>
         </plugins>
     </build>
-  <name>sdmx 2.0 xmlbeans</name>
-  <description>xmlbeans binding to sdmx2.1 schema(generated)</description>
-  <url>http://github.com/kalessine/sdmx-sdmx21-xmlbeans</url>
-  <inceptionYear>2015</inceptionYear>
-  <licenses>MIT</licenses>
-  <organization>N/A</organization>
-  <developers>James Gardner</developers>
-  <contributors></contributors>
+    <name>sdmx 2.0 xmlbeans</name>
+    <description>xmlbeans binding to sdmx2.1 schema(generated)</description>
+    <url>http://github.com/kalessine/sdmx-sdmx21-xmlbeans</url>
+    <inceptionYear>2015</inceptionYear>
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <email>jsg@internode.on.net</email>
+            <name>James Gardner</name>
+            <url>https://github.com/kalessine</url>
+            <id>kalessine</id>
+        </developer>
+    </developers>
     <dependencies>
         <dependency>
             <groupId>org.apache.xmlbeans</groupId>
